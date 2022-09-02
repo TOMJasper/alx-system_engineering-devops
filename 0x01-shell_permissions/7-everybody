@@ -1,2 +1,2 @@
 #!/bin/bash
-chmo ugo+x hello
+chmo a-x hello
